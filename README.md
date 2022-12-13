@@ -97,7 +97,7 @@ Puedes ser utilizada tanto por usuarios que quieran alquilar una vivienda y por 
 
 José Manuel González - [@twitter_handle](https://twitter.com/twitter_handle) - josemanuelg0nz4lezdiaz@gmail.com
 
-Enlace a mis proyectos: https://github.com/G00nzalez?tab=repositories] (https://github.com/G00nzalez?tab=repositories)
+Enlace a mis proyectos: https://github.com/G00nzalez?tab=repositories
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
