@@ -340,7 +340,7 @@ public class Main {
                                                 } //Si sus datos son correctos, registramos la casa
                                                 else {
                                                     arrendadorLog.registrarVivienda(new Vivienda(descripcion, direccion, numHuespedes, precioNoche));
-                                                    System.out.println("Su vivienda ha sido registrada.");
+                                                    System.out.println("Su vivienda ha sido modificada.");
                                                     Utils.pulsa();
 
                                                 }
