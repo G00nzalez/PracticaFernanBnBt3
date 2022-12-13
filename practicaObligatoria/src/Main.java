@@ -21,6 +21,7 @@ public class Main {
 
 
         //PRUEBAS
+        /* 
         inquilino1 = new Usuario("jose", "jose");
         inquilino2 = new Usuario("ana", "ana");
         arrendador1 = new Propietario("pepe", "pepe");
@@ -29,7 +30,7 @@ public class Main {
         Vivienda v2 = new Vivienda("casa", "ciudad", 5, 210);
         arrendador1.registrarVivienda(v1);
         arrendador2.registrarVivienda(v2);
-
+        */
 
         int opMenuLog, opRegistro;
 
